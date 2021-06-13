@@ -1,0 +1,26 @@
+# CMake
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+CMakeLists.txt.user
+CMakeScripts
+Testing
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+test-data
+moviedb
+moviedb.exe
+
+# VS CODE
+.vscode
+.settings/
+.project
+.classpath
+.factorypath
+bin/
+
+# App data
+data/
